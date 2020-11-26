@@ -28,18 +28,18 @@
     "albumId": "10508266"
   },
   "5": {
-    "name": "Life Goes On",
-    "ranking": "5",
-    "artists": "방탄소년단",
-    "songId": "33077234",
-    "albumId": "10521521"
-  },
-  "6": {
     "name": "Lovesick Girls",
-    "ranking": "6",
+    "ranking": "5",
     "artists": "BLACKPINK",
     "songId": "32961718",
     "albumId": "10498032"
+  },
+  "6": {
+    "name": "Life Goes On",
+    "ranking": "6",
+    "artists": "방탄소년단",
+    "songId": "33077234",
+    "albumId": "10521521"
   },
   "7": {
     "name": "취기를 빌려 (취향저격 그녀 X 산들)",
@@ -77,18 +77,18 @@
     "albumId": "2148596"
   },
   "12": {
-    "name": "딩가딩가 (Dingga)",
-    "ranking": "12",
-    "artists": "마마무 (Mamamoo)",
-    "songId": "33001672",
-    "albumId": "10505830"
-  },
-  "13": {
     "name": "밤하늘의 별을(2020)",
-    "ranking": "13",
+    "ranking": "12",
     "artists": "경서",
     "songId": "33061995",
     "albumId": "10518234"
+  },
+  "13": {
+    "name": "딩가딩가 (Dingga)",
+    "ranking": "13",
+    "artists": "마마무 (Mamamoo)",
+    "songId": "33001672",
+    "albumId": "10505830"
   },
   "14": {
     "name": "내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)",
@@ -112,25 +112,25 @@
     "albumId": "10518190"
   },
   "17": {
-    "name": "가을밤에 든 생각",
-    "ranking": "17",
-    "artists": "잔나비",
-    "songId": "33043504",
-    "albumId": "10514407"
-  },
-  "18": {
     "name": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
-    "ranking": "18",
+    "ranking": "17",
     "artists": "AKMU (악동뮤지션)",
     "songId": "32061975",
     "albumId": "10331947"
   },
-  "19": {
+  "18": {
     "name": "원해 (Feat. 팔로알토) (Prod. 코드 쿤스트)",
-    "ranking": "19",
+    "ranking": "18",
     "artists": "스윙스, 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)",
     "songId": "33077588",
     "albumId": "10521601"
+  },
+  "19": {
+    "name": "가을밤에 든 생각",
+    "ranking": "19",
+    "artists": "잔나비",
+    "songId": "33043504",
+    "albumId": "10514407"
   },
   "20": {
     "name": "I CAN’T STOP ME",
@@ -189,95 +189,95 @@
     "albumId": "10452351"
   },
   "28": {
-    "name": "내 방을 여행하는 법",
-    "ranking": "28",
-    "artists": "방탄소년단",
-    "songId": "33077235",
-    "albumId": "10521521"
-  },
-  "29": {
     "name": "Dolphin",
-    "ranking": "29",
+    "ranking": "28",
     "artists": "오마이걸 (OH MY GIRL)",
     "songId": "32559782",
     "albumId": "10423289"
   },
-  "30": {
+  "29": {
     "name": "나랑 같이 걸을래 (바른연애 길잡이 X 적재)",
-    "ranking": "30",
+    "ranking": "29",
     "artists": "적재",
     "songId": "33011180",
     "albumId": "10507546"
   },
-  "31": {
+  "30": {
     "name": "아로하",
-    "ranking": "31",
+    "ranking": "30",
     "artists": "조정석",
     "songId": "32491274",
     "albumId": "10409054"
   },
-  "32": {
+  "31": {
     "name": "작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)",
-    "ranking": "32",
+    "ranking": "31",
     "artists": "방탄소년단",
     "songId": "31737197",
     "albumId": "10273641"
   },
-  "33": {
-    "name": "Blue & Grey",
-    "ranking": "33",
-    "artists": "방탄소년단",
-    "songId": "33077236",
-    "albumId": "10521521"
-  },
-  "34": {
+  "32": {
     "name": "놓아줘 (with 태연)",
-    "ranking": "34",
+    "ranking": "32",
     "artists": "Crush",
     "songId": "32999763",
     "albumId": "10505425"
   },
-  "35": {
+  "33": {
+    "name": "내 방을 여행하는 법",
+    "ranking": "33",
+    "artists": "방탄소년단",
+    "songId": "33077235",
+    "albumId": "10521521"
+  },
+  "34": {
     "name": "Blueming",
-    "ranking": "35",
+    "ranking": "34",
     "artists": "아이유",
     "songId": "32183386",
     "albumId": "10346650"
   },
-  "36": {
+  "35": {
     "name": "거짓말이라도 해서 널 보고싶어",
-    "ranking": "36",
+    "ranking": "35",
     "artists": "백지영",
     "songId": "32777869",
     "albumId": "10460544"
   },
-  "37": {
+  "36": {
     "name": "METEOR",
-    "ranking": "37",
+    "ranking": "36",
     "artists": "창모 (CHANGMO)",
     "songId": "32224272",
     "albumId": "10359162"
   },
-  "38": {
+  "37": {
     "name": "모든 날, 모든 순간 (Every day, Every Moment)",
-    "ranking": "38",
+    "ranking": "37",
     "artists": "폴킴",
     "songId": "30962526",
     "albumId": "10149492"
   },
-  "39": {
-    "name": "홀로",
-    "ranking": "39",
-    "artists": "이하이",
-    "songId": "32808616",
-    "albumId": "10465994"
+  "38": {
+    "name": "Blue & Grey",
+    "ranking": "38",
+    "artists": "방탄소년단",
+    "songId": "33077236",
+    "albumId": "10521521"
   },
-  "40": {
+  "39": {
     "name": "서면역에서",
-    "ranking": "40",
+    "ranking": "39",
     "artists": "순순희",
     "songId": "32570501",
     "albumId": "10425277"
+  },
+  "40": {
+    "name": "홀로",
+    "ranking": "40",
+    "artists": "이하이",
+    "songId": "32808616",
+    "albumId": "10465994"
   },
   "41": {
     "name": "Dance Monkey",
@@ -322,32 +322,32 @@
     "albumId": "10294603"
   },
   "47": {
-    "name": "봄날",
-    "ranking": "47",
-    "artists": "방탄소년단",
-    "songId": "30244931",
-    "albumId": "10037969"
-  },
-  "48": {
     "name": "사실 나는 (Feat.전건호)",
-    "ranking": "48",
+    "ranking": "47",
     "artists": "경서예지",
     "songId": "32525311",
     "albumId": "10416034"
   },
-  "49": {
-    "name": "잠시",
-    "ranking": "49",
+  "48": {
+    "name": "봄날",
+    "ranking": "48",
     "artists": "방탄소년단",
-    "songId": "33077238",
-    "albumId": "10521521"
+    "songId": "30244931",
+    "albumId": "10037969"
   },
-  "50": {
+  "49": {
     "name": "우리 왜 헤어져야 해",
-    "ranking": "50",
+    "ranking": "49",
     "artists": "신예영",
     "songId": "32187544",
     "albumId": "10353881"
+  },
+  "50": {
+    "name": "마음을 드려요",
+    "ranking": "50",
+    "artists": "아이유",
+    "songId": "32378104",
+    "albumId": "10388744"
   },
   "51": {
     "name": "다시 여기 바닷가",
@@ -357,25 +357,25 @@
     "albumId": "10462799"
   },
   "52": {
-    "name": "마음을 드려요",
-    "ranking": "52",
-    "artists": "아이유",
-    "songId": "32378104",
-    "albumId": "10388744"
-  },
-  "53": {
     "name": "2002",
-    "ranking": "53",
+    "ranking": "52",
     "artists": "Anne-Marie",
     "songId": "31029291",
     "albumId": "10137250"
   },
+  "53": {
+    "name": "잠시",
+    "ranking": "53",
+    "artists": "방탄소년단",
+    "songId": "33077238",
+    "albumId": "10521521"
+  },
   "54": {
-    "name": "Bad Boy",
+    "name": "사랑 못해, 남들 쉽게 다 하는 거",
     "ranking": "54",
-    "artists": "청하, Christopher",
-    "songId": "32947184",
-    "albumId": "10494790"
+    "artists": "먼데이 키즈 (Monday Kiz)",
+    "songId": "33002813",
+    "albumId": "10506084"
   },
   "55": {
     "name": "살짝 설렜어 (Nonstop)",
@@ -385,25 +385,25 @@
     "albumId": "10423289"
   },
   "56": {
-    "name": "사랑 못해, 남들 쉽게 다 하는 거",
+    "name": "Bad Boy",
     "ranking": "56",
-    "artists": "먼데이 키즈 (Monday Kiz)",
-    "songId": "33002813",
-    "albumId": "10506084"
+    "artists": "청하, Christopher",
+    "songId": "32947184",
+    "albumId": "10494790"
   },
   "57": {
-    "name": "Stay",
+    "name": "소확행",
     "ranking": "57",
-    "artists": "방탄소년단",
-    "songId": "33077240",
-    "albumId": "10521521"
+    "artists": "임창정",
+    "songId": "32998020",
+    "albumId": "10505118"
   },
   "58": {
-    "name": "HAPPENING",
+    "name": "사랑하게 될 줄 알았어",
     "ranking": "58",
-    "artists": "AKMU (악동뮤지션)",
-    "songId": "33064355",
-    "albumId": "10518657"
+    "artists": "전미도",
+    "songId": "32614125",
+    "albumId": "10433754"
   },
   "59": {
     "name": "AYA",
@@ -413,46 +413,46 @@
     "albumId": "10512631"
   },
   "60": {
-    "name": "소확행",
-    "ranking": "60",
-    "artists": "임창정",
-    "songId": "32998020",
-    "albumId": "10505118"
-  },
-  "61": {
-    "name": "사랑하게 될 줄 알았어",
-    "ranking": "61",
-    "artists": "전미도",
-    "songId": "32614125",
-    "albumId": "10433754"
-  },
-  "62": {
-    "name": "병",
-    "ranking": "62",
-    "artists": "방탄소년단",
-    "songId": "33077239",
-    "albumId": "10521521"
-  },
-  "63": {
-    "name": "너도 아는",
-    "ranking": "63",
-    "artists": "폴킴",
-    "songId": "33016550",
-    "albumId": "10508892"
-  },
-  "64": {
     "name": "처음처럼",
-    "ranking": "64",
+    "ranking": "60",
     "artists": "엠씨더맥스 (M.C the MAX)",
     "songId": "32486613",
     "albumId": "10408131"
   },
-  "65": {
+  "61": {
+    "name": "너도 아는",
+    "ranking": "61",
+    "artists": "폴킴",
+    "songId": "33016550",
+    "albumId": "10508892"
+  },
+  "62": {
+    "name": "Stay",
+    "ranking": "62",
+    "artists": "방탄소년단",
+    "songId": "33077240",
+    "albumId": "10521521"
+  },
+  "63": {
     "name": "행복해",
-    "ranking": "65",
+    "ranking": "63",
     "artists": "송하예",
     "songId": "32996210",
     "albumId": "10504759"
+  },
+  "64": {
+    "name": "HAPPENING",
+    "ranking": "64",
+    "artists": "AKMU (악동뮤지션)",
+    "songId": "33064355",
+    "albumId": "10518657"
+  },
+  "65": {
+    "name": "안녕",
+    "ranking": "65",
+    "artists": "폴킴",
+    "songId": "31984204",
+    "albumId": "10317137"
   },
   "66": {
     "name": "이제 나만 믿어요",
@@ -462,18 +462,18 @@
     "albumId": "10412319"
   },
   "67": {
-    "name": "안녕",
-    "ranking": "67",
-    "artists": "폴킴",
-    "songId": "31984204",
-    "albumId": "10317137"
-  },
-  "68": {
     "name": "Don't Start Now",
-    "ranking": "68",
+    "ranking": "67",
     "artists": "Dua Lipa",
     "songId": "32137576",
     "albumId": "10345880"
+  },
+  "68": {
+    "name": "병",
+    "ranking": "68",
+    "artists": "방탄소년단",
+    "songId": "33077239",
+    "albumId": "10521521"
   },
   "69": {
     "name": "ON",
@@ -497,18 +497,18 @@
     "albumId": "10217134"
   },
   "72": {
-    "name": "축하해 (Prod. By VAN.C)",
-    "ranking": "72",
-    "artists": "오반",
-    "songId": "32915886",
-    "albumId": "10488222"
-  },
-  "73": {
     "name": "아무노래",
-    "ranking": "73",
+    "ranking": "72",
     "artists": "지코 (ZICO)",
     "songId": "32313543",
     "albumId": "10375118"
+  },
+  "73": {
+    "name": "12:45 (Stripped)",
+    "ranking": "73",
+    "artists": "Etham",
+    "songId": "31509376",
+    "albumId": "10235362"
   },
   "74": {
     "name": "덤디덤디 (DUMDi DUMDi)",
@@ -518,25 +518,25 @@
     "albumId": "10470992"
   },
   "75": {
-    "name": "12:45 (Stripped)",
+    "name": "축하해 (Prod. By VAN.C)",
     "ranking": "75",
-    "artists": "Etham",
-    "songId": "31509376",
-    "albumId": "10235362"
+    "artists": "오반",
+    "songId": "32915886",
+    "albumId": "10488222"
   },
   "76": {
-    "name": "Pretty Savage",
-    "ranking": "76",
-    "artists": "BLACKPINK",
-    "songId": "32961716",
-    "albumId": "10498032"
-  },
-  "77": {
     "name": "Love poem",
-    "ranking": "77",
+    "ranking": "76",
     "artists": "아이유",
     "songId": "32143487",
     "albumId": "10346650"
+  },
+  "77": {
+    "name": "Pretty Savage",
+    "ranking": "77",
+    "artists": "BLACKPINK",
+    "songId": "32961716",
+    "albumId": "10498032"
   },
   "78": {
     "name": "시작",
@@ -546,25 +546,25 @@
     "albumId": "10381712"
   },
   "79": {
-    "name": "도망가",
-    "ranking": "79",
-    "artists": "MINO (송민호)",
-    "songId": "33029109",
-    "albumId": "10511553"
-  },
-  "80": {
     "name": "Maniac",
-    "ranking": "80",
+    "ranking": "79",
     "artists": "Conan Gray",
     "songId": "32122539",
     "albumId": "10343276"
   },
+  "80": {
+    "name": "도망가",
+    "ranking": "80",
+    "artists": "MINO (송민호)",
+    "songId": "33029109",
+    "albumId": "10511553"
+  },
   "81": {
-    "name": "이 노래가 뭐라고",
+    "name": "Not Shy",
     "ranking": "81",
-    "artists": "임한별",
-    "songId": "33084536",
-    "albumId": "10523013"
+    "artists": "ITZY (있지)",
+    "songId": "32860419",
+    "albumId": "10476630"
   },
   "82": {
     "name": "Paris In The Rain",
@@ -581,74 +581,74 @@
     "albumId": "10485498"
   },
   "84": {
-    "name": "Not Shy",
-    "ranking": "84",
-    "artists": "ITZY (있지)",
-    "songId": "32860419",
-    "albumId": "10476630"
-  },
-  "85": {
     "name": "Ice Cream (with Selena Gomez)",
-    "ranking": "85",
+    "ranking": "84",
     "artists": "BLACKPINK",
     "songId": "32889003",
     "albumId": "10482568"
   },
+  "85": {
+    "name": "2020년 11월 어느 가을밤",
+    "ranking": "85",
+    "artists": "2F (신용재, 김원주)",
+    "songId": "33087123",
+    "albumId": "10523543"
+  },
   "86": {
-    "name": "Summer Hate (Feat. 비)",
-    "ranking": "86",
-    "artists": "지코 (ZICO)",
-    "songId": "32734372",
-    "albumId": "10453701"
-  },
-  "87": {
-    "name": "너의 곁에만 맴돌아",
-    "ranking": "87",
-    "artists": "노을",
-    "songId": "33027247",
-    "albumId": "10511188"
-  },
-  "88": {
-    "name": "가을 타나 봐",
-    "ranking": "88",
-    "artists": "바이브",
-    "songId": "31314144",
-    "albumId": "10205439"
-  },
-  "89": {
     "name": "보라빛 밤 (pporappippam)",
-    "ranking": "89",
+    "ranking": "86",
     "artists": "선미",
     "songId": "32725022",
     "albumId": "10452354"
   },
-  "90": {
+  "87": {
+    "name": "Summer Hate (Feat. 비)",
+    "ranking": "87",
+    "artists": "지코 (ZICO)",
+    "songId": "32734372",
+    "albumId": "10453701"
+  },
+  "88": {
     "name": "그때 그 아인",
-    "ranking": "90",
+    "ranking": "88",
     "artists": "김필",
     "songId": "32377231",
     "albumId": "10388581"
   },
-  "91": {
+  "89": {
     "name": "시든 꽃에 물을 주듯",
-    "ranking": "91",
+    "ranking": "89",
     "artists": "HYNN (박혜원)",
     "songId": "31703498",
     "albumId": "10267986"
   },
-  "92": {
+  "90": {
+    "name": "첫 줄",
+    "ranking": "90",
+    "artists": "신용재 (2F)",
+    "songId": "32734819",
+    "albumId": "10453772"
+  },
+  "91": {
     "name": "취했나봐",
-    "ranking": "92",
+    "ranking": "91",
     "artists": "황인욱",
     "songId": "32616054",
     "albumId": "10434085"
   },
+  "92": {
+    "name": "가을 타나 봐",
+    "ranking": "92",
+    "artists": "바이브",
+    "songId": "31314144",
+    "albumId": "10205439"
+  },
   "93": {
-    "name": "첫 줄",
+    "name": "너의 곁에만 맴돌아",
     "ranking": "93",
-    "artists": "신용재 (2F)",
-    "songId": "32734819",
-    "albumId": "10453772"
+    "artists": "노을",
+    "songId": "33027247",
+    "albumId": "10511188"
   },
   "94": {
     "name": "좋은 사람 있으면 소개시켜줘",
@@ -658,32 +658,32 @@
     "albumId": "10405712"
   },
   "95": {
-    "name": "니 이름 불렀나 봐",
-    "ranking": "95",
-    "artists": "V.O.S",
-    "songId": "33046410",
-    "albumId": "10515058"
-  },
-  "96": {
     "name": "Psycho",
-    "ranking": "96",
+    "ranking": "95",
     "artists": "Red Velvet (레드벨벳)",
     "songId": "32273582",
     "albumId": "10368053"
   },
-  "97": {
+  "96": {
     "name": "Into the I-LAND",
-    "ranking": "97",
+    "ranking": "96",
     "artists": "아이유",
     "songId": "32698765",
     "albumId": "10447670"
   },
-  "98": {
+  "97": {
     "name": "bad guy",
-    "ranking": "98",
+    "ranking": "97",
     "artists": "Billie Eilish",
     "songId": "31701428",
     "albumId": "10267565"
+  },
+  "98": {
+    "name": "니 이름 불렀나 봐",
+    "ranking": "98",
+    "artists": "V.O.S",
+    "songId": "33046410",
+    "albumId": "10515058"
   },
   "99": {
     "name": "Painkiller",
