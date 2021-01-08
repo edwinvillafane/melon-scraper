@@ -42,18 +42,18 @@
     "albumId": "10505118"
   },
   "7": {
-    "name": "Lovesick Girls",
-    "ranking": "7",
-    "artists": "BLACKPINK",
-    "songId": "32961718",
-    "albumId": "10498032"
-  },
-  "8": {
     "name": "취기를 빌려 (취향저격 그녀 X 산들)",
-    "ranking": "8",
+    "ranking": "7",
     "artists": "산들",
     "songId": "32794652",
     "albumId": "10463600"
+  },
+  "8": {
+    "name": "Lovesick Girls",
+    "ranking": "8",
+    "artists": "BLACKPINK",
+    "songId": "32961718",
+    "albumId": "10498032"
   },
   "9": {
     "name": "Life Goes On",
@@ -119,46 +119,46 @@
     "albumId": "10426648"
   },
   "18": {
-    "name": "When We Disco (Duet with 선미)",
-    "ranking": "18",
-    "artists": "박진영",
-    "songId": "32853712",
-    "albumId": "10475061"
-  },
-  "19": {
     "name": "ON AIR (Feat. 로꼬, 박재범 & GRAY)",
-    "ranking": "19",
+    "ranking": "18",
     "artists": "릴보이 (lIlBOI)",
     "songId": "33150993",
     "albumId": "10536658"
   },
-  "20": {
-    "name": "Freak (Prod. Slom)",
-    "ranking": "20",
-    "artists": "릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)",
-    "songId": "33077591",
-    "albumId": "10521601"
-  },
-  "21": {
+  "19": {
     "name": "혼술하고 싶은 밤",
-    "ranking": "21",
+    "ranking": "19",
     "artists": "벤",
     "songId": "33104090",
     "albumId": "10527241"
   },
-  "22": {
-    "name": "흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야",
-    "ranking": "22",
-    "artists": "장범준",
-    "songId": "32003395",
-    "albumId": "10320500"
+  "20": {
+    "name": "When We Disco (Duet with 선미)",
+    "ranking": "20",
+    "artists": "박진영",
+    "songId": "32853712",
+    "albumId": "10475061"
   },
-  "23": {
+  "21": {
+    "name": "Freak (Prod. Slom)",
+    "ranking": "21",
+    "artists": "릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)",
+    "songId": "33077591",
+    "albumId": "10521601"
+  },
+  "22": {
     "name": "늦은 밤 너의 집 앞 골목길에서",
-    "ranking": "23",
+    "ranking": "22",
     "artists": "노을",
     "songId": "32156286",
     "albumId": "10348811"
+  },
+  "23": {
+    "name": "흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야",
+    "ranking": "23",
+    "artists": "장범준",
+    "songId": "32003395",
+    "albumId": "10320500"
   },
   "24": {
     "name": "어떻게 지내 (Prod. By VAN.C)",
@@ -168,25 +168,25 @@
     "albumId": "10399190"
   },
   "25": {
-    "name": "How You Like That",
+    "name": "모든 날, 모든 순간 (Every day, Every Moment)",
     "ranking": "25",
+    "artists": "폴킴",
+    "songId": "30962526",
+    "albumId": "10149492"
+  },
+  "26": {
+    "name": "How You Like That",
+    "ranking": "26",
     "artists": "BLACKPINK",
     "songId": "32720013",
     "albumId": "10451566"
   },
-  "26": {
-    "name": "딩가딩가 (Dingga)",
-    "ranking": "26",
-    "artists": "마마무 (Mamamoo)",
-    "songId": "33001672",
-    "albumId": "10505830"
-  },
   "27": {
-    "name": "모든 날, 모든 순간 (Every day, Every Moment)",
+    "name": "아로하",
     "ranking": "27",
-    "artists": "폴킴",
-    "songId": "30962526",
-    "albumId": "10149492"
+    "artists": "조정석",
+    "songId": "32491274",
+    "albumId": "10409054"
   },
   "28": {
     "name": "뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom)",
@@ -196,74 +196,74 @@
     "albumId": "10529161"
   },
   "29": {
-    "name": "아로하",
+    "name": "딩가딩가 (Dingga)",
     "ranking": "29",
-    "artists": "조정석",
-    "songId": "32491274",
-    "albumId": "10409054"
+    "artists": "마마무 (Mamamoo)",
+    "songId": "33001672",
+    "albumId": "10505830"
   },
   "30": {
-    "name": "METEOR",
-    "ranking": "30",
-    "artists": "창모 (CHANGMO)",
-    "songId": "32224272",
-    "albumId": "10359162"
-  },
-  "31": {
     "name": "Blueming",
-    "ranking": "31",
+    "ranking": "30",
     "artists": "아이유",
     "songId": "32183386",
     "albumId": "10346650"
   },
-  "32": {
-    "name": "Dolphin",
-    "ranking": "32",
-    "artists": "오마이걸 (OH MY GIRL)",
-    "songId": "32559782",
-    "albumId": "10423289"
+  "31": {
+    "name": "METEOR",
+    "ranking": "31",
+    "artists": "창모 (CHANGMO)",
+    "songId": "32224272",
+    "albumId": "10359162"
   },
-  "33": {
+  "32": {
     "name": "서면역에서",
-    "ranking": "33",
+    "ranking": "32",
     "artists": "순순희",
     "songId": "32570501",
     "albumId": "10425277"
   },
-  "34": {
-    "name": "DON'T TOUCH ME",
-    "ranking": "34",
-    "artists": "환불원정대",
-    "songId": "32978341",
-    "albumId": "10501191"
+  "33": {
+    "name": "Dolphin",
+    "ranking": "33",
+    "artists": "오마이걸 (OH MY GIRL)",
+    "songId": "32559782",
+    "albumId": "10423289"
   },
-  "35": {
+  "34": {
     "name": "사실 나는 (Feat.전건호)",
-    "ranking": "35",
+    "ranking": "34",
     "artists": "경서예지",
     "songId": "32525311",
     "albumId": "10416034"
   },
-  "36": {
-    "name": "악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트)",
-    "ranking": "36",
-    "artists": "스윙스",
-    "songId": "33133804",
-    "albumId": "10532919"
+  "35": {
+    "name": "DON'T TOUCH ME",
+    "ranking": "35",
+    "artists": "환불원정대",
+    "songId": "32978341",
+    "albumId": "10501191"
   },
-  "37": {
+  "36": {
     "name": "마음을 드려요",
-    "ranking": "37",
+    "ranking": "36",
     "artists": "아이유",
     "songId": "32378104",
     "albumId": "10388744"
   },
+  "37": {
+    "name": "악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트)",
+    "ranking": "37",
+    "artists": "스윙스",
+    "songId": "33133804",
+    "albumId": "10532919"
+  },
   "38": {
-    "name": "I CAN’T STOP ME",
+    "name": "오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)",
     "ranking": "38",
-    "artists": "TWICE (트와이스)",
-    "songId": "33016659",
-    "albumId": "10508930"
+    "artists": "마크툽 (MAKTUB)",
+    "songId": "31853557",
+    "albumId": "10294603"
   },
   "39": {
     "name": "작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)",
@@ -273,60 +273,60 @@
     "albumId": "10273641"
   },
   "40": {
-    "name": "거짓말이라도 해서 널 보고싶어",
+    "name": "I CAN’T STOP ME",
     "ranking": "40",
+    "artists": "TWICE (트와이스)",
+    "songId": "33016659",
+    "albumId": "10508930"
+  },
+  "41": {
+    "name": "거짓말이라도 해서 널 보고싶어",
+    "ranking": "41",
     "artists": "백지영",
     "songId": "32777869",
     "albumId": "10460544"
   },
-  "41": {
-    "name": "오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)",
-    "ranking": "41",
-    "artists": "마크툽 (MAKTUB)",
-    "songId": "31853557",
-    "albumId": "10294603"
-  },
   "42": {
-    "name": "마리아 (Maria)",
-    "ranking": "42",
-    "artists": "화사 (Hwa Sa)",
-    "songId": "32725013",
-    "albumId": "10452351"
-  },
-  "43": {
     "name": "Memories",
-    "ranking": "43",
+    "ranking": "42",
     "artists": "Maroon 5",
     "songId": "32055419",
     "albumId": "10330593"
   },
+  "43": {
+    "name": "마리아 (Maria)",
+    "ranking": "43",
+    "artists": "화사 (Hwa Sa)",
+    "songId": "32725013",
+    "albumId": "10452351"
+  },
   "44": {
-    "name": "뻔한남자",
-    "ranking": "44",
-    "artists": "이승기",
-    "songId": "33061829",
-    "albumId": "10518190"
-  },
-  "45": {
-    "name": "시작",
-    "ranking": "45",
-    "artists": "가호 (Gaho)",
-    "songId": "32345931",
-    "albumId": "10381712"
-  },
-  "46": {
     "name": "그날에 나는 맘이 편했을까",
-    "ranking": "46",
+    "ranking": "44",
     "artists": "이예준",
     "songId": "33107649",
     "albumId": "10527955"
   },
+  "45": {
+    "name": "뻔한남자",
+    "ranking": "45",
+    "artists": "이승기",
+    "songId": "33061829",
+    "albumId": "10518190"
+  },
+  "46": {
+    "name": "시작",
+    "ranking": "46",
+    "artists": "가호 (Gaho)",
+    "songId": "32345931",
+    "albumId": "10381712"
+  },
   "47": {
-    "name": "사랑은 지날수록 더욱 선명하게 남아",
+    "name": "겨울잠",
     "ranking": "47",
-    "artists": "전상근",
-    "songId": "32651098",
-    "albumId": "10440381"
+    "artists": "장덕철",
+    "songId": "33186725",
+    "albumId": "10544166"
   },
   "48": {
     "name": "우리 왜 헤어져야 해",
@@ -336,11 +336,11 @@
     "albumId": "10353881"
   },
   "49": {
-    "name": "Snowman",
+    "name": "사랑은 지날수록 더욱 선명하게 남아",
     "ranking": "49",
-    "artists": "Sia",
-    "songId": "30717645",
-    "albumId": "10107511"
+    "artists": "전상근",
+    "songId": "32651098",
+    "albumId": "10440381"
   },
   "50": {
     "name": "홀로",
@@ -357,11 +357,11 @@
     "albumId": "10037969"
   },
   "52": {
-    "name": "눈누난나 (NUNU NANA)",
+    "name": "Snowman",
     "ranking": "52",
-    "artists": "제시 (Jessi)",
-    "songId": "32825454",
-    "albumId": "10469416"
+    "artists": "Sia",
+    "songId": "30717645",
+    "albumId": "10107511"
   },
   "53": {
     "name": "고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom)",
@@ -371,46 +371,46 @@
     "albumId": "10532919"
   },
   "54": {
-    "name": "가을밤에 든 생각",
+    "name": "눈누난나 (NUNU NANA)",
     "ranking": "54",
+    "artists": "제시 (Jessi)",
+    "songId": "32825454",
+    "albumId": "10469416"
+  },
+  "55": {
+    "name": "가을밤에 든 생각",
+    "ranking": "55",
     "artists": "잔나비",
     "songId": "33043504",
     "albumId": "10514407"
   },
-  "55": {
-    "name": "All I Want For Christmas Is You",
-    "ranking": "55",
-    "artists": "Mariah Carey",
-    "songId": "14776",
-    "albumId": "829"
-  },
   "56": {
-    "name": "살짝 설렜어 (Nonstop)",
+    "name": "한잔이면 지워질까",
     "ranking": "56",
+    "artists": "황인욱",
+    "songId": "33137384",
+    "albumId": "10533731"
+  },
+  "57": {
+    "name": "살짝 설렜어 (Nonstop)",
+    "ranking": "57",
     "artists": "오마이걸 (OH MY GIRL)",
     "songId": "32559781",
     "albumId": "10423289"
   },
-  "57": {
+  "58": {
     "name": "Dance Monkey",
-    "ranking": "57",
+    "ranking": "58",
     "artists": "Tones And I",
     "songId": "31979846",
     "albumId": "10316394"
   },
-  "58": {
-    "name": "Santa Tell Me",
-    "ranking": "58",
-    "artists": "Ariana Grande",
-    "songId": "5475060",
-    "albumId": "2292117"
-  },
   "59": {
-    "name": "한잔이면 지워질까",
+    "name": "2002",
     "ranking": "59",
-    "artists": "황인욱",
-    "songId": "33137384",
-    "albumId": "10533731"
+    "artists": "Anne-Marie",
+    "songId": "31029291",
+    "albumId": "10137250"
   },
   "60": {
     "name": "Downtown Baby",
@@ -427,11 +427,11 @@
     "albumId": "10534079"
   },
   "62": {
-    "name": "2002",
+    "name": "All I Want For Christmas Is You",
     "ranking": "62",
-    "artists": "Anne-Marie",
-    "songId": "31029291",
-    "albumId": "10137250"
+    "artists": "Mariah Carey",
+    "songId": "14776",
+    "albumId": "829"
   },
   "63": {
     "name": "사랑 못해, 남들 쉽게 다 하는 거",
@@ -448,60 +448,60 @@
     "albumId": "10317137"
   },
   "65": {
-    "name": "너를 만나",
+    "name": "Santa Tell Me",
     "ranking": "65",
+    "artists": "Ariana Grande",
+    "songId": "5475060",
+    "albumId": "2292117"
+  },
+  "66": {
+    "name": "너를 만나",
+    "ranking": "66",
     "artists": "폴킴",
     "songId": "31388145",
     "albumId": "10217134"
   },
-  "66": {
-    "name": "소확행",
-    "ranking": "66",
-    "artists": "임창정",
-    "songId": "32998020",
-    "albumId": "10505118"
-  },
   "67": {
-    "name": "나로 바꾸자 (duet with JYP)",
-    "ranking": "67",
-    "artists": "비",
-    "songId": "33169122",
-    "albumId": "10540785"
-  },
-  "68": {
     "name": "Panorama",
-    "ranking": "68",
+    "ranking": "67",
     "artists": "IZ*ONE (아이즈원)",
     "songId": "33120545",
     "albumId": "10530160"
   },
+  "68": {
+    "name": "소확행",
+    "ranking": "68",
+    "artists": "임창정",
+    "songId": "32998020",
+    "albumId": "10505118"
+  },
   "69": {
-    "name": "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+    "name": "나로 바꾸자 (duet with JYP)",
     "ranking": "69",
-    "artists": "아이유",
-    "songId": "3053259",
-    "albumId": "1093562"
+    "artists": "비",
+    "songId": "33169122",
+    "albumId": "10540785"
   },
   "70": {
-    "name": "여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",
+    "name": "처음처럼",
     "ranking": "70",
+    "artists": "엠씨더맥스 (M.C the MAX)",
+    "songId": "32486613",
+    "albumId": "10408131"
+  },
+  "71": {
+    "name": "여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",
+    "ranking": "71",
     "artists": "머쉬베놈 (MUSHVENOM)",
     "songId": "33150994",
     "albumId": "10536658"
   },
-  "71": {
+  "72": {
     "name": "잘할게",
-    "ranking": "71",
+    "ranking": "72",
     "artists": "이승기",
     "songId": "33129712",
     "albumId": "10532045"
-  },
-  "72": {
-    "name": "처음처럼",
-    "ranking": "72",
-    "artists": "엠씨더맥스 (M.C the MAX)",
-    "songId": "32486613",
-    "albumId": "10408131"
   },
   "73": {
     "name": "행복해",
@@ -525,74 +525,74 @@
     "albumId": "10346650"
   },
   "76": {
-    "name": "이제 나만 믿어요",
+    "name": "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
     "ranking": "76",
+    "artists": "아이유",
+    "songId": "3053259",
+    "albumId": "1093562"
+  },
+  "77": {
+    "name": "이제 나만 믿어요",
+    "ranking": "77",
     "artists": "임영웅",
     "songId": "32508053",
     "albumId": "10412319"
   },
-  "77": {
+  "78": {
     "name": "너의 번호를 누르고 (Prod. 영화처럼)",
-    "ranking": "77",
+    "ranking": "78",
     "artists": "#안녕",
     "songId": "32224166",
     "albumId": "10359126"
   },
-  "78": {
-    "name": "너도 아는",
-    "ranking": "78",
-    "artists": "폴킴",
-    "songId": "33016550",
-    "albumId": "10508892"
-  },
   "79": {
-    "name": "Don't Start Now",
-    "ranking": "79",
-    "artists": "Dua Lipa",
-    "songId": "32137576",
-    "albumId": "10345880"
-  },
-  "80": {
-    "name": "별을 담은 시 (Ode To The Stars)",
-    "ranking": "80",
-    "artists": "마크툽 (MAKTUB), 이라온",
-    "songId": "32906021",
-    "albumId": "10486085"
-  },
-  "81": {
     "name": "우린 어쩌다 헤어진 걸까",
-    "ranking": "81",
+    "ranking": "79",
     "artists": "허각",
     "songId": "33164083",
     "albumId": "10539679"
   },
+  "80": {
+    "name": "Don't Start Now",
+    "ranking": "80",
+    "artists": "Dua Lipa",
+    "songId": "32137576",
+    "albumId": "10345880"
+  },
+  "81": {
+    "name": "너도 아는",
+    "ranking": "81",
+    "artists": "폴킴",
+    "songId": "33016550",
+    "albumId": "10508892"
+  },
   "82": {
-    "name": "아무노래",
+    "name": "별을 담은 시 (Ode To The Stars)",
     "ranking": "82",
+    "artists": "마크툽 (MAKTUB), 이라온",
+    "songId": "32906021",
+    "albumId": "10486085"
+  },
+  "83": {
+    "name": "아무노래",
+    "ranking": "83",
     "artists": "지코 (ZICO)",
     "songId": "32313543",
     "albumId": "10375118"
   },
-  "83": {
-    "name": "다시 여기 바닷가",
-    "ranking": "83",
-    "artists": "싹쓰리 (유두래곤, 린다G, 비룡)",
-    "songId": "32790516",
-    "albumId": "10462799"
-  },
   "84": {
-    "name": "Bad Boy",
-    "ranking": "84",
-    "artists": "청하, Christopher",
-    "songId": "32947184",
-    "albumId": "10494790"
-  },
-  "85": {
     "name": "12:45 (Stripped)",
-    "ranking": "85",
+    "ranking": "84",
     "artists": "Etham",
     "songId": "31509376",
     "albumId": "10235362"
+  },
+  "85": {
+    "name": "Bad Boy",
+    "ranking": "85",
+    "artists": "청하, Christopher",
+    "songId": "32947184",
+    "albumId": "10494790"
   },
   "86": {
     "name": "적외선 카메라",
@@ -602,46 +602,46 @@
     "albumId": "10529161"
   },
   "87": {
-    "name": "놓아줘 (with 태연)",
+    "name": "다시 여기 바닷가",
     "ranking": "87",
-    "artists": "Crush",
-    "songId": "32999763",
-    "albumId": "10505425"
+    "artists": "싹쓰리 (유두래곤, 린다G, 비룡)",
+    "songId": "32790516",
+    "albumId": "10462799"
   },
   "88": {
-    "name": "가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",
-    "ranking": "88",
-    "artists": "머쉬베놈 (MUSHVENOM)",
-    "songId": "33150990",
-    "albumId": "10536658"
-  },
-  "89": {
     "name": "Paris In The Rain",
-    "ranking": "89",
+    "ranking": "88",
     "artists": "Lauv",
     "songId": "31341518",
     "albumId": "10209752"
   },
-  "90": {
+  "89": {
     "name": "Maniac",
-    "ranking": "90",
+    "ranking": "89",
     "artists": "Conan Gray",
     "songId": "32122539",
     "albumId": "10343276"
   },
-  "91": {
-    "name": "원해 (Feat. 팔로알토) (Prod. 코드 쿤스트)",
-    "ranking": "91",
-    "artists": "스윙스, 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)",
-    "songId": "33077588",
-    "albumId": "10521601"
+  "90": {
+    "name": "놓아줘 (with 태연)",
+    "ranking": "90",
+    "artists": "Crush",
+    "songId": "32999763",
+    "albumId": "10505425"
   },
-  "92": {
+  "91": {
     "name": "ON",
-    "ranking": "92",
+    "ranking": "91",
     "artists": "방탄소년단",
     "songId": "32399830",
     "albumId": "10377346"
+  },
+  "92": {
+    "name": "가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",
+    "ranking": "92",
+    "artists": "머쉬베놈 (MUSHVENOM)",
+    "songId": "33150990",
+    "albumId": "10536658"
   },
   "93": {
     "name": "Black Mamba",
@@ -651,18 +651,18 @@
     "albumId": "10519346"
   },
   "94": {
-    "name": "For You (Feat. Crush)",
+    "name": "원해 (Feat. 팔로알토) (Prod. 코드 쿤스트)",
     "ranking": "94",
+    "artists": "스윙스, 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)",
+    "songId": "33077588",
+    "albumId": "10521601"
+  },
+  "95": {
+    "name": "For You (Feat. Crush)",
+    "ranking": "95",
     "artists": "이하이",
     "songId": "33142705",
     "albumId": "10534900"
-  },
-  "95": {
-    "name": "Blue & Grey",
-    "ranking": "95",
-    "artists": "방탄소년단",
-    "songId": "33077236",
-    "albumId": "10521521"
   },
   "96": {
     "name": "12월의 어느 겨울…",
@@ -672,31 +672,31 @@
     "albumId": "10538915"
   },
   "97": {
-    "name": "요즘",
+    "name": "Blue & Grey",
     "ranking": "97",
+    "artists": "방탄소년단",
+    "songId": "33077236",
+    "albumId": "10521521"
+  },
+  "98": {
+    "name": "요즘",
+    "ranking": "98",
     "artists": "양다일",
     "songId": "33167083",
     "albumId": "10540303"
   },
-  "98": {
+  "99": {
     "name": "내 방을 여행하는 법",
-    "ranking": "98",
+    "ranking": "99",
     "artists": "방탄소년단",
     "songId": "33077235",
     "albumId": "10521521"
   },
-  "99": {
+  "100": {
     "name": "크리스마스니까",
-    "ranking": "99",
+    "ranking": "100",
     "artists": "성시경, 박효신, 이석훈, 서인국, VIXX (빅스)",
     "songId": "3973781",
     "albumId": "2168409"
-  },
-  "100": {
-    "name": "부어라 비워라 (Tricker) (Prod. GroovyRoom)",
-    "ranking": "100",
-    "artists": "머쉬베놈 (MUSHVENOM)",
-    "songId": "33115808",
-    "albumId": "10529161"
   }
 }
